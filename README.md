@@ -1,6 +1,34 @@
 # Treading-Platform
 full stack project using spring boot and react
 
+Run Backend
+- create database "treading"
+- give your msql password
+
+for java mail sender
+- give your email
+- give your app password(if you don't have then create on, search in youtube if needed "how to create app password for gmail")
+
+stripe payment gatway
+- give your api key
+
+razorpay payment gatway
+- give your api key
+- and api secret
+
+coingecko api
+- give your coingecko api key
+
+gemini api
+- give your gemini api key
+
+Run Frontend
+- do "npm i"
+- npm run dev
+
+
+
+
 ## Database Design & Tables
 
 link : https://watery-lunaria-74f.notion.site/Full-Stack-Treading-Plateform-b8111323c3324df195b85686be63ed28?pvs=4
